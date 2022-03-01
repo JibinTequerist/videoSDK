@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple example of Videosdk webRTC sdk api server",
   "main": "server.js",
-  "author": "arjun-kava",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
