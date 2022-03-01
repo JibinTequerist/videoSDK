@@ -1,5 +1,5 @@
 {
-  "name": "videoSDK",
+  "name": "videosdk",
   "version": "1.0.0",
   "description": "A simple example of Videosdk webRTC sdk api server",
   "main": "server.js",
