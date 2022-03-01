@@ -1,10 +1,10 @@
 {
-  "name": "videosdk-rtc-nodejs-sdk-example",
+  "name": "videoSDK",
   "version": "1.0.0",
   "description": "A simple example of Videosdk webRTC sdk api server",
   "main": "server.js",
   "author": "",
-  "license": "MIT",
+  "license": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^9.0.2",
