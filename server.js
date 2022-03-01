@@ -202,6 +202,7 @@ app.post ("/meeting-recordings/:recordingId", (req, res) => {
 });
 
 //
+const post = PORT || 3000
 app.listen(PORT, () => {
   console.log(`API server listening at http://localhost:${PORT}`);
 });
